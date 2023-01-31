@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/arrays/arrays.iml" filepath="$PROJECT_DIR$/arrays/arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basicAlgrithm/basicAlgrithm.iml" filepath="$PROJECT_DIR$/basicAlgrithm/basicAlgrithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/codeTop/codeTop.iml" filepath="$PROJECT_DIR$/codeTop/codeTop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/huiliang/codingInterview.iml" filepath="$PROJECT_DIR$/huiliang/codingInterview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/experiments/experiments.iml" filepath="$PROJECT_DIR$/experiments/experiments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hotOneHundred/hotOneHundred.iml" filepath="$PROJECT_DIR$/hotOneHundred/hotOneHundred.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jianzhiOffer/jianzhiOffer.iml" filepath="$PROJECT_DIR$/jianzhiOffer/jianzhiOffer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leecode.iml" filepath="$PROJECT_DIR$/leecode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/massiveData/massiveData.iml" filepath="$PROJECT_DIR$/massiveData/massiveData.iml" />
+      <module fileurl="file://$PROJECT_DIR$/questions/questions.iml" filepath="$PROJECT_DIR$/questions/questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tendaysTraining/tendaysTraining.iml" filepath="$PROJECT_DIR$/tendaysTraining/tendaysTraining.iml" />
+    </modules>
+  </component>
+</project>
