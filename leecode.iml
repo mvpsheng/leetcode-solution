@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/array" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/cracking-the-coding-interview" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/cracking-the-coding-interview/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/aboveOneHundred" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/cracking-the-coding-interview/src/stacks-and-queues" />
     </content>
     <orderEntry type="inheritedJdk" />

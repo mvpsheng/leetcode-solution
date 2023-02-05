@@ -13,6 +13,7 @@
       <module fileurl="file://$PROJECT_DIR$/massiveData/massiveData.iml" filepath="$PROJECT_DIR$/massiveData/massiveData.iml" />
       <module fileurl="file://$PROJECT_DIR$/questions/questions.iml" filepath="$PROJECT_DIR$/questions/questions.iml" />
       <module fileurl="file://$PROJECT_DIR$/tendaysTraining/tendaysTraining.iml" filepath="$PROJECT_DIR$/tendaysTraining/tendaysTraining.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trainingCamp/trainingCamp.iml" filepath="$PROJECT_DIR$/trainingCamp/trainingCamp.iml" />
     </modules>
   </component>
 </project>
